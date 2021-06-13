@@ -5,7 +5,7 @@ https://codepen.io/anisurrahmanlikhon/full/abJQzzy
 ## Libraries Used:
  EaselJS for display and event models. GSAP for menu animation
 
-## Instructions
+## Instructions:
 1. Drag from an output connection (blue dot) to an input connection (grey dot) to create a wire.
 2. You may have multiple wires branch off an output, but only one wire per input.
 3. Click a connector (blue or grey dots) to remove all attached wires.
@@ -14,13 +14,13 @@ https://codepen.io/anisurrahmanlikhon/full/abJQzzy
 6. If need delete a node, drag the node in X (delete button) over through. 
 
 
-## Circuit Types
+## Circuit Types:
 
-### INPUT / OUTPUTu
+### INPUT / OUTPUT
 1. IN: A light with an input to turn it on.
 2. OUT: Interactive button with an output.
 
-## LOGIC
+## LOGIC:
 1. NOT: Outputs inverted input signal.
 2. OR: Output is true when any input is true.
 3. AND: Output is only true when both inputs are true.
