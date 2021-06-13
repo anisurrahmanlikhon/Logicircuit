@@ -11,11 +11,12 @@ https://codepen.io/anisurrahmanlikhon/full/abJQzzy
 3. Click a connector (blue or grey dots) to remove all attached wires.
 4. Click (+) button in top-right corner to add new circuits.
 5. Note that some circuits are interactive
+6. If need delete a node, drag the node in X (delete button) over through. 
 
 
 ## Circuit Types
 
-### INPUT / OUTPUT
+### INPUT / OUTPUTu
 1. IN: A light with an input to turn it on.
 2. OUT: Interactive button with an output.
 
